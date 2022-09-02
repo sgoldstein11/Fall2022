@@ -1,3 +1,8 @@
+# FILENAME nim.py
+# First Last Stacy Goldstein
+# CSCI 77800 Fall 2022
+# collaborators: 
+# consulted: previous work from summer 
 import random
 
 stones = 12
@@ -20,19 +25,7 @@ while (int(stones) >0):
 
   
 
-   # elif stones >3:
-  
-  #   # print(stonesTaken)
-  #   # print("stones")
-  #   stones = stones - stonesTakenComp
-  #   print("There are " + str(stones) + " left in the pot")
-  #   # print(stones)
-  #   # print("left in the pot")
 
-  # else:
- 
-  #  stones = stones - stonesTaken
-  #  print("The machine took " + str(stonesTaken) + ". There are " + str(stones)+ " left") 
 
       
   
